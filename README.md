@@ -1,5 +1,5 @@
 # TheVstDaw-Scrapper
-TheVstDaw Scrapper Plugin Documentation
+TheVstDaw Scrapper Wordpress Plugin Documentation
 
 Plugin Name: TheVstDaw Scrapper BY [WP-SQUAD]
 Plugin URI: https://torrentsquadd.blogspot.com/
