@@ -2,7 +2,7 @@
 TheVstDaw Scrapper Wordpress Plugin Documentation
 
 Plugin Name: TheVstDaw Scrapper BY [WP-SQUAD]
-Plugin URI: https://torrentsquadd.blogspot.com/
+Plugin URI: https://wpsquadplug.blogspot.com/
 Description: This plugin allows you to scrape content from a specific website (https://thevstdaw.com/) and create a post in WordPress. It extracts the title, content, featured image, and magnet link (if available) from the website and generates a post with customizable categories.
 Version: 1.0
 Author: Ramflow
@@ -20,7 +20,7 @@ Features:
 - Integration with the WordPress media library to handle featured images.
 
 Installation:
-1. Download the plugin zip file from [https://torrentsquadd.blogspot.com/].
+1. Download the plugin zip file from . https://wpsquadplug.blogspot.com/ 
 2. Login to your WordPress admin dashboard.
 3. Navigate to "Plugins" > "Add New".
 4. Click on the "Upload Plugin" button and choose the downloaded zip file.
