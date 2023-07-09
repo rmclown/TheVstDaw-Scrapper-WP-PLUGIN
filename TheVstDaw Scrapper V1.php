@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: TheVstDaw Scrapper BY [ WP-SQUAD ]
-Plugin URI: https://torrentsquadd.blogspot.com/
+Plugin URI: https://wpsquadplug.blogspot.com/
 Description: This plugin allows you to scrape content from a specific website (https://thevstdaw.com/) and create a post in WordPress. It extracts the title, content, featured image, and magnet link (if available) from the website and generates a post with customizable categories.
 Version: 1.0
 Author: Ramflow
@@ -211,7 +211,7 @@ function TheVstDaw_Scrapper() {
 
         <p>This plugin allows you to scrape content only from: <a href="https://thevstdaw.com/">https://thevstdaw.com/</a></p>
         <p>Get in touch for a captivating custom plugin experience : codeecrafters@gmail.com </p>
-        <p>More Plugins In Our Blog : <a href="https://torrentsquadd.blogspot.com/">WP SQUAD BLOG</a></p>
+        <p>More Plugins In Our Blog : <a href="https://wpsquadplug.blogspot.com/">WP SQUAD BLOG</a></p>
 
         <form method="post">
             <label for="url">Website URL:</label>
